@@ -1,0 +1,21 @@
+@font-face {
+    font-family: SunsetRegular;
+    src: url(fonts/SunsetRegular.ttf);
+  }
+
+h1 {
+    font-family: SunsetRegular, serif;
+}
+
+body { 
+    font-family: SunsetRegular, serif;
+    background: rgb(255, 255, 255);
+    text-align: center;
+    border: 4px double rgb(0, 0, 0);
+    color: rgb(0, 0, 0);
+    }
+
+a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
